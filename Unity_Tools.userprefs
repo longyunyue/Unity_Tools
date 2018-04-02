@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EB6C57E6-DE7F-AA98-6ADD-A1EB1A2B5E55}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LineRender_/LineRender.cs">
+    <Files>
+      <File FileName="Assets/LineRender_/LineRender.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity__Tools PreferredExecutionTarget="Unity.Editor" />
+</Properties>
