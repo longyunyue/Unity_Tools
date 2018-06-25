@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{EB6C57E6-DE7F-AA98-6ADD-A1EB1A2B5E55}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LineRender_/LineRender_v3.cs">
+    <Files>
+      <File FileName="Assets/LineRender_/LineRender.cs" Line="68" Column="52" />
+      <File FileName="Assets/Transform/QuaternionLerp.cs" Line="12" Column="14" />
+      <File FileName="Assets/Transform/Rotate.cs" Line="14" Column="38" />
+      <File FileName="Assets/Transform/test.cs" Line="14" Column="48" />
+      <File FileName="Assets/LineRender_/LineRender_.cs" Line="53" Column="14" />
+      <File FileName="Assets/LineRender_/LineRender_v3.cs" Line="31" Column="28" />
+      <File FileName="Assets/LineRender_/LineRender_v5.cs" Line="1" Column="1" />
+      <File FileName="Assets/LineRender_/LineRender_v4.cs" Line="59" Column="54" />
+      <File FileName="Assets/LineRender_/PencilMove.cs" Line="17" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity__Tools PreferredExecutionTarget="Unity.Editor" />
+</Properties>

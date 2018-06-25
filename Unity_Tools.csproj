@@ -7,13 +7,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{EB6C57E6-DE7F-AA98-6ADD-A1EB1A2B5E55}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <AssemblyName>Assembly-CSharp.dll</AssemblyName>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile></TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectGenerator>VSTU</UnityProjectGenerator>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneOSX:2</UnityBuildTarget>
     <UnityVersion>2017.3.0f3</UnityVersion>
@@ -325,6 +326,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\LineRender_\LineRender.cs" />
+    <Compile Include="Assets\LineRender_\LineRender_.cs" />
+    <Compile Include="Assets\LineRender_\LineRender_v3.cs" />
+    <Compile Include="Assets\LineRender_\LineRender_v4.cs" />
+    <Compile Include="Assets\LineRender_\LineRender_v5.cs" />
+    <Compile Include="Assets\LineRender_\PencilMove.cs" />
+    <Compile Include="Assets\Transform\QuaternionLerp.cs" />
+    <Compile Include="Assets\Transform\Rotate.cs" />
+    <Compile Include="Assets\Transform\test.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

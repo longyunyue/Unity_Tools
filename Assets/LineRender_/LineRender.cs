@@ -47,7 +47,7 @@ public class LineRender : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("currentPoint: "+ currentPoint + currentLinePos);
+        //Debug.Log("currentPoint: "+ currentPoint + currentLinePos);
         if (currentPoint < pointNumber)
         {
             if (Vector3.Distance(currentLinePos, currentDesPos) >= 0.01f)
@@ -60,7 +60,7 @@ public class LineRender : MonoBehaviour
             {
                 counter = 0;
                 currentPoint++;
-                Effect.positionCount++;
+                Effect.positionCount++;//当需要增加一个节点当时候再增加，不然未初始化当节点位置都是初始位置，视觉效果奇怪
                 Effect.SetPosition(currentPoint + 1, currentLinePos);
                 currentOriginPos = transforms[currentPoint].position;
                 currentDesPos = transforms[currentPoint+1].position;
@@ -71,4 +71,6 @@ public class LineRender : MonoBehaviour
         }
 
     }
+
+
 }
