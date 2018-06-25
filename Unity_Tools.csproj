@@ -325,8 +325,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\LineRender_\LineRender.cs" />
-    <Compile Include="Assets\LineRender_\LineRender_.cs" />
     <Compile Include="Assets\LineRender_\LineRender_v3.cs" />
     <Compile Include="Assets\LineRender_\LineRender_v4.cs" />
     <Compile Include="Assets\LineRender_\LineRender_v5.cs" />
